@@ -1,0 +1,2 @@
+rootProject.name='Pdfviewer'
+include ':app'
